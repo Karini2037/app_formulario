@@ -191,4 +191,5 @@ class ResultadoPage extends StatelessWidget {
       ),
     );
   }
+  //anotação
 }
